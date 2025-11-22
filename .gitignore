@@ -1,0 +1,6 @@
+# Ignore large data files
+data/raw/
+data/processed/*.tif
+data/processed/*.csv
+data/processed/*.geojson
+data/processed/*.graphml
